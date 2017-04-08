@@ -1,9 +1,7 @@
 # The Gunter
 
 A bot that knows only excuses. https://www.facebook.com/The-Gunter-158814821309361/. (Not sure
-anybody can actually see this)
-
-Mostly just a playground for building FB bots backed by AWS lambda.
+anybody can actually see this). Sandbox for building an FB bot backed by Lambda.
 
 ## AWS Setup
 
