@@ -1,0 +1,15 @@
+{
+  "name": "gunter-bot",
+  "version": "1.0.0",
+  "description": "Gunter the useless Oracle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yodo.io <gunter@yodo.io>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "huh": "^2.0.1",
+    "request": "^2.81.0"
+  }
+}
